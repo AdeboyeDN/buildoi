@@ -9,6 +9,7 @@ https://docs.djangoproject.com/en/4.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.1/ref/settings/
 """
+SECRET_KEY = 'django-insecure-h+s!u5e!z@h2^cy1-u#*b)t@s8t(i@-@khtr5t%0*-t=(5t5^%'
 
 from pathlib import Path
 
